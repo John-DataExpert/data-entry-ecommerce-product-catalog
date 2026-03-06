@@ -19,6 +19,8 @@ I developed and executed a systematic data entry workflow to create a clean, uni
 4.  **Final Delivery:** Provided the client with a clean, import-ready CSV file and a user-friendly Excel file with data filters for easy management.
 
 [Screenshot of Final Product Catalog](https://github.com/John-DataExpert/data-entry-ecommerce-product-catalog/blob/main/screenshot.PNG)
+[Final Import-Ready CSV File](https://github.com/John-DataExpert/data-entry-ecommerce-product-catalog/blob/main/ecommerce_product_data_entry.csv)
+[Final User-Friendly Excel File](https://github.com/John-DataExpert/data-entry-ecommerce-product-catalog/blob/main/ecommerce_product_catalog.xlsx)
 
 ---
 
