@@ -18,7 +18,7 @@ I developed and executed a systematic data entry workflow to create a clean, uni
 3.  **Quality Assurance:** Performed a thorough review of the entire dataset to check for typos, formatting errors, and missing information, ensuring 100% data integrity.
 4.  **Final Delivery:** Provided the client with a clean, import-ready CSV file and a user-friendly Excel file with data filters for easy management.
 
-`[Insert image placeholder: visuals/final_catalog_spreadsheet.png - A caption could read: "The final, structured product catalog ready for import."]`
+[Screenshot of Final Product Catalog](https://github.com/John-DataExpert/data-entry-ecommerce-product-catalog/blob/main/screenshot.PNG)
 
 ---
 
